@@ -25,9 +25,3 @@ The project employs a series of Jupyter Notebooks to process and analyze data. K
 1. Clone the repository.
 2. Ensure you have Jupyter Notebook installed along with necessary Python libraries.
 3. Run the notebooks in sequence to understand the data processing, analysis, and model development steps.
-
-## Contributing
-Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
-
-## Contact
-For any queries or discussions regarding the project, please reach out to me at abdul.aziz.mohammed@outlook.com.
